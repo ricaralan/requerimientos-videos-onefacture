@@ -43,7 +43,7 @@ REGISTRO_CLIENTE_CON_CAPTCHA del segundo 34 al minuto 1 con 4 segundos
 
 ```mermaid
 graph TD;
-    A[REGISTRO_CLIENTE_CON_FIEL del segundo 3 al 34]-->B[Para iniciar es necesario registrar los datos de tus clientes en el programa mediante contraseña, FIEL (fiel) y CSD (ce-ese-de), los cuales se almacenan en tu equipo, por lo que nadie más tendrá acceso a ellos.];
+    A[REGISTRO_CLIENTE_CON_FIEL del segundo 3 al 34]-->B[Para iniciar es necesario registrar los datos de tus clientes en el programa mediante contraseña, FIEL "fiel" y CSD "ce-ese-de", los cuales se almacenan en tu equipo, por lo que nadie más tendrá acceso a ellos.];
 ```
 
 Speech:
